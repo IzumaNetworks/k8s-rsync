@@ -1,4 +1,4 @@
-# Internal Dev Tools
+# Watch files and `rsync` to k8s pods automatically
 
 ## watch-krsync.sh
 
