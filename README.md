@@ -1,5 +1,11 @@
 # Watch files and `rsync` to k8s pods automatically
 
+---
+### Full Tutorial
+https://www.izumanetworks.com/blog/use-rsync-with-k8s/
+
+---
+
 ## watch-krsync.sh
 
 This script will allow you to watch a local file system on your development machine, with it automatically syncing to a pod. 
